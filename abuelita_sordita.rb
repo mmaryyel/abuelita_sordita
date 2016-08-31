@@ -16,7 +16,7 @@
  #
 
 
-
+"make a conversation with granma speaking high and soft"
 
 def deaf_granma
   puts "What do you want to say to Grandma?"
